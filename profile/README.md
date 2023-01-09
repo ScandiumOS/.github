@@ -1,12 +1,17 @@
-## Hi there 👋
+# Welcome to the ScandiumOS ///////////////
 
-<!--
+## Basics that you may need to know
 
-**Here are some ideas to get you started:**
+### Lets begin the madness !
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+To get started, you gonna have to check the following repositories:
+
+* [**Manifest**](https://github.com/ScandiumOS/android)
+
+Now that we mentioned the important repositories for building, if you want you can checkout some repositories to join us, 
+
+Have you done it already? Okay, good. Now if you need to contact us, well, you may ask in our [Telegram](https://t.me/CherishOS_Chat) Support Group, ~~we may or may not answer.~~
+
+ * [**Telegram Chat Group**](https://t.me/ScandiumOS_Chat)
+ * [**Telegram Announcements Channel**](https://t.me/ScandiumOS)
+```
