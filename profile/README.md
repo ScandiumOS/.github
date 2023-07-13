@@ -12,6 +12,6 @@ Now that we mentioned the important repositories for building, if you want you c
 
 Have you done it already? Okay, good. Now if you need to contact us, well, you may ask in our [Owner](https://t.me/Akemiinawa) Soon support grup, ~~we may or may not answer.~~
 
- * [** Soon Telegram Chat Group**](https://t.me/ScandiumOS_Chat)
- * [** Soon Telegram Announcements Channel**](https://t.me/ScandiumOS)
+ * [**Soon Telegram Chat Group**](https://t.me/ScandiumOS_Chat)
+ * [**Soon Telegram Announcements Channel**](https://t.me/ScandiumOS)
 ```
