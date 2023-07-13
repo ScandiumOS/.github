@@ -1,4 +1,4 @@
-# Welcome to the ScandiumOS ///////////////
+# Welcome to the ScandiumOS
 
 ## Basics that you may need to know
 
